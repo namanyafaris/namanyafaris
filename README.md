@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @namanyafaris
 - 👀 I’m interested in javascript
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on gamedev
 - 📫 How to reach me @syawalfarisi
 
 <!---
