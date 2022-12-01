@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @namanyafaris
 - 👀 I’m interested in javascript
 - 🌱 I’m currently learning Python and javascript
-- 💞️ I’m looking to collaborate on backend and data science
+- 💞️ I’m looking to collaborate on interesting backend and cloud development
 - 📫 How to reach me @syawalfarisi
 
 <!---
